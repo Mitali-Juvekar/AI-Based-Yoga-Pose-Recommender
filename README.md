@@ -4,3 +4,5 @@ The rising popularity of yoga has sparked an increasing interest among individua
 This project represents a significant milestone in our journey towards earning a Bachelor of Engineering degree in Computer Engineering. It was completed by myself, Mitali Juvekar, and my teammates: Sakshi Bhanage, Shanvi Mehta, and Siddhant Kothari, under the guidance of Professor Nabanita Namdal, Assistant Professor in the Department of Computer Engineering at TSEC.
 
 Our project entailed developing a user-friendly website where visitors could receive personalized yoga pose recommendations based on their ailments or symptoms. Our goal was to emulate existing yoga websites while integrating a pose estimator for enhanced usability. We prioritized simplicity and ease of use, employing JavaScript, TensorFlow, Python, and MoveNet for backend development, and HTML, CSS, Bootstrap, and React for frontend design.
+
+ONLY IMPORTANT FILES HAVE BEEN ADDED. THE ACTUAL IMPLEMENTATION FOLDERS AS DONE BY US ARE IN THE GOOGLE DRIVE LINK.
