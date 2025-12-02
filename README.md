@@ -2,7 +2,7 @@
 
 Proper implementation: https://drive.google.com/drive/folders/1PBIThHSZ1mFyBMpGhPjvcAegXw7c_PYx?usp=sharing 
 
-Working can be seen on my LinkedIn in the Projects section: https://www.linkedin.com/in/mitali-juvekar-6520861b2/
+The working can be seen on my LinkedIn in the Projects section: https://www.linkedin.com/in/mitali-juvekar-6520861b2/
 
 The rising popularity of yoga has sparked an increasing interest among individuals eager to explore its numerous benefits. In response, our project endeavors to develop a system capable of recommending seven authentic yoga asanas tailored to a user's specific chronic health conditions and symptoms. By allowing users to input up to four desired benefits, the system can display relevant yoga poses along with detailed descriptions, ensuring personalized and effective practice. Furthermore, our project includes a yoga pose estimator feature, enabling users to assess their form during exercises. Utilizing this estimator, incorrect postures are promptly detected and signaled to the user, facilitating proper execution for optimal results.
 
